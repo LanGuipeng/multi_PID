@@ -114,8 +114,6 @@ mar-plot --results results/local --output results/local/figures
 
 The full suite can take several minutes. Endpoint experiments use explicit time and cell budgets, so attained levels and times can vary by machine. The suite retains valid budget-limited outputs as experimental results. New runs go to the ignored `results/local/` directory; the committed reference records stay separate.
 
-Figures are written as vector PDF and 600 dpi PNG. The plotting code uses Times New Roman when available and STIX as a portable fallback, with STIX mathematical glyphs.
-
 ## How it works
 
 ```text
