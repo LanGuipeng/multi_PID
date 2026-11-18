@@ -1,4 +1,4 @@
-# Shannon MAR
+# Multi PID
 
 **Decision-Theoretic Representation and Certified On-Demand Computation of Multisource Partial Information Decomposition**
 
